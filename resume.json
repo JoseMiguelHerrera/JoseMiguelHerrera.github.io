@@ -1,0 +1,208 @@
+{
+  "basics": {
+    "name": "Jose Miguel Herrera",
+    "label": "Software Engineer & Music Producer",
+    "picture": "./jose.jpg",
+    "email": "jmhm2012@gmail.com",
+    "website": "http://joseherrera.me",
+    "summary": "Jose Herrera was born in Colombia, but moved to Canada at the age of 6, living in Toronto and Calgary at different times. His main passions in life are technology and music. He started pursuing them by earning his Engineering degree and starting his own music project, Astronaut Cult. He has polished his development skills by having worked at wonderful companies like IBM and Critical Mass, but also by working on his own projects, such as BlockVote. At the moment he's researching the possibilities of how Blockchain technology can change industry and government.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Calgary",
+      "countryCode": "Canada",
+      "region": "Alberta"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "Jose Herrera",
+        "url": "https://github.com/JoseMiguelHerrera"
+      },
+      {
+        "network": "Angellist",
+        "username": "Jose Herrera",
+        "url": "https://angel.co/jose-herrera-5"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Jose Herrera",
+        "url": "https://www.linkedin.com/in/joseherreram/"
+      },
+      {
+        "network": "Soundcloud",
+        "username": "Astronaut Cult",
+        "url": "https://soundcloud.com/joseherrera"
+      },
+      {
+        "network": "Twitter",
+        "username": "Jose Herrera/Astronaut Cult",
+        "url": "https://twitter.com/astronaut_cult"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "BlockVote",
+      "position": "Project Manager/Developer",
+      "website": "",
+      "startDate": "2016-12-11",
+      "summary": "BlockVote is an ongoing project in which blockchain technology is leveraged to allow distributed computing in oder to solve the concerns of security, anonymity and verification that affect traditional voting systems.",
+      "highlights": [
+        "Built with Hyperledger Fabric and nodeJS.",
+        "Uses state of the art encryption to ensure only the voter knows that a cast ballot belongs to them.",
+        "Voters vote on a mobile (Android) application after they get registrered by a registrar, who also uses an Android app.",
+        "Elections can be configured in terms of start/end dates, number of voting sub-districts, and if live results are enabled."
+      ]
+    },
+    {
+      "company": "Critical Mass",
+      "position": "Developer Intern",
+      "website": "http://www.criticalmass.com/",
+      "startDate": "2017-05-15",
+      "endDate": "2017-08-18",
+      "summary": "Criical Mass is an experience design agency with a relentless focus on the customer. Developer interns assist in implementing digital solutions for world-class brands.",
+      "highlights": [
+        "Creating React Native applications.",
+        "Assisting with implementation of project architecture, standards and processes.",
+        "Assisting with client interactions and work with the account and project teams.",
+        "Attending regular project technical team meetings Assist with development of project code.",
+        "Creating and maintaining project documentation, in accordance with established standards"
+      ]
+    },
+    {
+      "company": "IBM",
+      "position": "Business Process Management Developer Intern",
+      "website": "http://www.IBM.com/",
+      "startDate": "2015-05-15",
+      "endDate": "2016-08-15",
+      "summary": "IBM Business Process Manager is a full-featured, consumable business process management (BPM) platform. It includes tooling and run time for process design and execution, along with capabilities for monitoring and optimizing work that is executed within the platform.",
+      "highlights": [
+        "Worked in a team to develop and maintain IBM’s Business Process Management software, using HTML, CSS, and JavaScript.",
+        "Assisted in the architectural endeavour of porting BPM to the cloud.",
+        "Ensured that the BPM software was accessible to customers with disabilities.",
+        "Tested the BPM software using both blackbox and whitebox methodologies, such as Selenium WebDriver.",
+        "Created testing documentation while keeping Agile methodologies."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "CIBC Run for the Cure",
+      "position": "Developer/Volunteer",
+      "website": "http://cibcrunforthecure.supportcbcf.com/",
+      "startDate": "2015-10-01",
+      "endDate": "2015-10-30",
+      "summary": "WebApp used in CIBC's 2015 Run For The Cure in Toronto. Used to significantly speed up the check in process by allowing volunteers with iPads to check in participants who had previously registered online.",
+      "highlights": [
+        "Built with NodeJS and Cloudant",
+        "Sponsored by IBM"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Calgary - Schulich School of Engineering ",
+      "area": "Software Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2012-09-01",
+      "endDate": "2017-11-20",
+      "gpa": ""
+    }
+  ],
+  "awards": [
+ 
+  ],
+  "publications": [
+    {
+      "name": "University of Calgary students close in on fraud-proof electronic voting system",
+      "publisher": "Calgary Herald",
+      "releaseDate": "2017-4-11",
+      "website": "http://calgaryherald.com/news/local-news/university-of-calgary-students-close-in-on-fraud-proof-electronic-voting-system",
+      "summary": "Herrera along with his four team members are using IBM's Blockchain technology to create what they hope will be fraud-proof electronic voting"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "C/C++",
+        "Java",
+        "NodeJS",
+        "Python",
+        "Blockchain",
+        "OpenGL",
+        "GoLang",
+        "React/React Native",
+        "Bicoin"
+      ]
+    },
+    {
+      "name": "Music",
+      "level": "Master",
+      "keywords": [
+        "Ableton",
+        "DJing",
+        "Mixing",
+        "Mastering",
+        "Arrangement",
+        "Composition",
+        "Sound Design"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "French",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Music",
+      "keywords": [
+        "Composition",
+        "Mixing",
+        "Mastering",
+        "Songwritting",
+        "Sound Design",
+        "Marketing"
+      ]
+    },
+    {
+      "name": "Cryptocurrency/Blockchains",
+      "keywords": [
+        "Bitcoin",
+        "Ethereum",
+        "Trading",
+        "Decentralized autonomous organizations",
+        "Investment"
+      ]
+    },
+    {
+      "name": "Science",
+      "keywords": [
+        "Psychology",
+        "Physics",
+        "Computer Science",
+        "Mathematics",
+        "Cryptography"
+      ]
+    }
+  ],
+  "references": [
+    
+  ]
+}
