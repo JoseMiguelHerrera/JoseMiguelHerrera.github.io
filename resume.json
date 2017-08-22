@@ -47,11 +47,11 @@
       "position": "Project Manager/Developer",
       "website": "",
       "startDate": "2016-12-11",
-      "summary": "BlockVote is an ongoing project in which blockchain technology is leveraged to allow distributed computing in oder to solve the concerns of security, anonymity and verification that affect traditional voting systems.",
+      "summary": "BlockVote is an ongoing project in which blockchain technology is leveraged to allow distributed computing in order to solve the concerns of security, anonymity and verification that affect traditional voting systems.",
       "highlights": [
         "Built with Hyperledger Fabric and nodeJS.",
         "Uses state of the art encryption to ensure only the voter knows that a cast ballot belongs to them.",
-        "Voters vote on a mobile (Android) application after they get registrered by a registrar, who also uses an Android app.",
+        "Voters vote on a mobile (Android) application after they get registered by a registrar, who also uses an Android app.",
         "Elections can be configured in terms of start/end dates, number of voting sub-districts, and if live results are enabled."
       ]
     },
@@ -60,15 +60,13 @@
       "position": "Developer Intern",
       "website": "http://www.criticalmass.com/",
       "startDate": "2017-05-15",
-      "endDate": "2017-09-01",
-      "summary": "Criical Mass is an experience design agency with a relentless focus on the customer. Developer interns assist in implementing digital solutions for world-class brands.",
+      "endDate": "2017-08-18",
+      "summary": "Critical Mass is an experience design agency with a relentless focus on the customer. Developer interns assist in implementing digital solutions for world-class brands.",
       "highlights": [
+        "Architected and implemented a scalable software project to automate marketing science activities with the goal of reducing costs across the board. (NodeJS/GraphQL/MongoDB/JS-HTML-CSS)",
+        "Worked on the Travel Alberta account (web development)",
         "Created a React Native application for internal use",
-        "Participted in Citi FinTech Citiblue reboot. Did UI/UX/technical feasibility/fintech research/requirement analysis",
-        "Assisting with implementation of project architecture, standards and processes.",
-        "Assisting with client interactions and work with the account and project teams.",
-        "Attending regular project technical team meetings Assist with development of project code.",
-        "Creating and maintaining project documentation, in accordance with established standards"
+        "Participated in Citi FinTech Citiblue reboot. Did UI/UX/technical feasibility/fintech research/requirement analysis"
       ]
     },
     {
@@ -138,6 +136,8 @@
         "Blockchain",
         "OpenGL",
         "GoLang",
+        "REST APIs",
+        "GraphQL APIs",
         "React/React Native",
         "Bitcoin"
       ]
@@ -177,7 +177,7 @@
         "Composition",
         "Mixing",
         "Mastering",
-        "Songwritting",
+        "Songwriting",
         "Sound Design",
         "Marketing"
       ]
