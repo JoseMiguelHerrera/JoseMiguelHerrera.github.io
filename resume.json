@@ -1,17 +1,17 @@
 {
   "basics": {
     "name": "Jose Miguel Herrera",
-    "label": "Software Engineer & Music Producer",
+    "label": "Software Engineer, Blockchain Evangelist & Music Producer",
     "picture": "./jose.jpg",
     "email": "jmhm2012@gmail.com",
     "website": "http://joseherrera.me",
-    "summary": "Jose Herrera was born in Colombia, but moved to Canada at the age of 6, living in Toronto and Calgary at different times. His main passions in life are technology and music. He started pursuing them by earning his Engineering degree and starting his own music project, Astronaut Cult. He has polished his development skills by having worked at wonderful companies like IBM and Critical Mass, but also by working on his own projects, such as BlockVote. At the moment he's researching the possibilities of how Blockchain technology can change industry and government.",
+    "summary": "Jose Herrera was born in Colombia, but moved to Canada at the age of 6. Today based out of Toronto. Passionate about technology and music. Current obsession: how can Blockchain technology change industry, society, and government?",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Calgary",
+      "city": "Toronto",
       "countryCode": "Canada",
-      "region": "Alberta"
+      "region": "Ontario"
     },
     "profiles": [
       {
@@ -20,7 +20,7 @@
         "url": "https://github.com/JoseMiguelHerrera"
       },
       {
-        "network": "Angellist",
+        "network": "Angelist",
         "username": "Jose Herrera",
         "url": "https://angel.co/jose-herrera-5"
       },
@@ -43,10 +43,50 @@
   },
   "work": [
     {
+      "company": "Novera Capital",
+      "position": "Lead Blockchain Developer",
+      "website": "novera.com",
+      "startDate": "2018-08-01",
+      "summary": "Helping build the future of finance.",
+      "highlights": [
+        "Lead developer of the Novera platform - reporting directly to the CTO.",
+        "Using solidity, web3js, react, ganache, mythril, truffle, and meadowsuite.",
+        "Ownership of devops processes and cloud infrustructure.",
+        "Helping implement organizational cybersecurity.",
+        "Aiding in the hiring process to grow the engineering team."
+      ]
+    },
+    {
+      "company": "Polymath",
+      "position": "Ethereum Dapp Developer",
+      "website": "polymath.network",
+      "startDate": "2018-06-01",
+      "endDate": "2018-08-01",
+      "summary": "Helped build the Polymath STO platform.",
+      "highlights": [
+        "Helped bring the Polymath Dapp to main net.",
+        "Used solidity, web3js, react, redux, and ganache."
+      ]
+    },
+    {
+      "company": "The Ethereum Billboard",
+      "position": "Founder/Developer",
+      "website": "ethereumbillboard.net",
+      "startDate": "2017-10-01",
+      "endDate": "2018-07-01",
+      "summary": "A social experiment that lies at the intersection of conceptual art, cutting edge tech, and a discussion of issues relevant to our times. On the billboard, you can pay some Ether to display anything you want, as long as you pay the current market price, which is calculated from the price paid for the last ad and the time since it was put up. We want to explore themes of cryptoeconomics, free speech, and human nature.",
+      "highlights": [
+        "Built on Ethereum/Solidity",
+        "Raised ~1000$ at peak times",
+        "Vitalik Buterin provided feedback on how to improve, which was implemented in version 2."
+      ]
+    },
+    {
       "company": "BlockVote",
       "position": "Project Manager/Developer",
       "website": "",
       "startDate": "2016-12-11",
+      "endDate": "2017-06-01",
       "summary": "BlockVote is an ongoing project in which blockchain technology is leveraged to allow distributed computing in order to solve the concerns of security, anonymity and verification that affect traditional voting systems.",
       "highlights": [
         "Built with Hyperledger Fabric and nodeJS.",
@@ -126,6 +166,7 @@
       "name": "Development",
       "level": "Master",
       "keywords": [
+        "Solidity",
         "HTML",
         "CSS",
         "Javascript",
@@ -152,7 +193,8 @@
         "Mastering",
         "Arrangement",
         "Composition",
-        "Sound Design"
+        "Sound Design",
+        "Music Marketing"
       ]
     }
   ],
