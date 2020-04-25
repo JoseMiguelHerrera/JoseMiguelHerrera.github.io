@@ -1,11 +1,10 @@
 {
   "basics": {
     "name": "Jose Miguel Herrera",
-    "label": "Software Engineer, Blockchain Evangelist & Music Producer",
+    "label": "Full Stack Engineer Building The Future of Technology, Today.",
     "picture": "./jose.jpg",
-    "email": "jmhm2012@gmail.com",
-    "website": "http://joseherrera.me",
-    "summary": "Jose Herrera was born in Colombia, but moved to Canada at the age of 6. Today based out of Toronto. Passionate about technology and music. Current obsession: how can Blockchain technology change industry, society, and government?",
+    "email": "josemiguelherrera@protonmail.com",
+    "summary": "Software Engineer specialized in full stack develpoment; distributed computing, blockchain engineering; and cryptography/cybersecurity. I enjoy working on an exciting projects that leverage my wide array of skills. Proven success in taking projects from requirements to production. Send me a message to share insights on projects.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -28,50 +27,57 @@
         "network": "LinkedIn",
         "username": "Jose Herrera",
         "url": "https://www.linkedin.com/in/joseherreram/"
-      },
-      {
-        "network": "Soundcloud",
-        "username": "Astronaut Cult",
-        "url": "https://soundcloud.com/joseherrera"
-      },
-      {
-        "network": "Twitter",
-        "username": "Jose Herrera/Astronaut Cult",
-        "url": "https://twitter.com/astronaut_cult"
       }
     ]
   },
   "work": [
     {
       "company": "Novera Capital",
-      "position": "Lead Blockchain Developer",
-      "website": "novera.com",
+      "position": "Lead Engineer",
+      "website": "https://novera.com",
       "startDate": "2018-08-01",
       "summary": "Helping build the future of finance.",
       "highlights": [
-        "Lead developer of the Novera platform - reporting directly to the CTO.",
-        "Using solidity, web3js, react, ganache, mythril, truffle, and meadowsuite.",
-        "Ownership of devops processes and cloud infrustructure.",
+        "Lead full stack developer of all Novera products. Reporting directly to the CTO. Developed decentralized financial derivatives and scalable distributed systems.",
+        "Designing all software architecture according to business requirements before coding them.",
+        "Using solidity, web3js, react, ganache, mythril, truffle, and meadowsuite for ethereum blockchain product development. Additional experience with bitshares infrastructure and assets.",
+        "Developing private fund software (backend: NodeJS, MongoDB) for maximum scalability and performance.",
+        "Own devops and cloud infrustructure processes (Azure, AWS, Heroku)",
         "Helping implement organizational cybersecurity.",
-        "Aiding in the hiring process to grow the engineering team."
+        "Built a distributed HSM system using state of the art encryption/cybersecurity for blockchain operations.",
+        "Showed leadership by aiding in the hiring process to grow and train the engineering team. Working with frontend developers and contractors to create fully functional products."
       ]
     },
     {
       "company": "Polymath",
-      "position": "Ethereum Dapp Developer",
-      "website": "polymath.network",
+      "position": "Software Engineer/Developer/Contractor",
+      "website": "https://polymath.network",
       "startDate": "2018-06-01",
       "endDate": "2018-08-01",
       "summary": "Helped build the Polymath STO platform.",
       "highlights": [
-        "Helped bring the Polymath Dapp to main net.",
-        "Used solidity, web3js, react, redux, and ganache."
+        "Used solidity, web3js, react, redux, and ganache.",
+        "Helped bring the Polymath Dapp to main net. Shipped version 1.3 with new features (see below).",
+        "https://blog.polymath.network/polymath-core-mainnet-v1-3-0-release-8921e8046508?gi=764b2373c020"
+      ]
+    },
+    {
+      "company": "Bull Bitcoin",
+      "position": "Software Engineer/Developer/Contractor",
+      "website": "https://bullbitcoin.com/",
+      "startDate": "2018-06-01",
+      "endDate": "2018-08-01",
+      "summary": "Helped build the Bull Bitcoin Platform platform.",
+      "highlights": [
+        "Creating custom full stack software to increase Bitcoin adoption in Canada, specially in regards of banking/regulatory compliance. KYC/AML.",
+        "Using statistical predictive analysis to make Bitcoin mining more profitable.",
+        "Automatization of Bitcoin related tax accounting."
       ]
     },
     {
       "company": "The Ethereum Billboard",
       "position": "Founder/Developer",
-      "website": "ethereumbillboard.net",
+      "website": "https://github.com/JoseMiguelHerrera/ethereumbilboard",
       "startDate": "2017-10-01",
       "endDate": "2018-07-01",
       "summary": "A social experiment that lies at the intersection of conceptual art, cutting edge tech, and a discussion of issues relevant to our times. On the billboard, you can pay some Ether to display anything you want, as long as you pay the current market price, which is calculated from the price paid for the last ad and the time since it was put up. We want to explore themes of cryptoeconomics, free speech, and human nature.",
@@ -133,10 +139,15 @@
       "startDate": "2015-10-01",
       "endDate": "2015-10-30",
       "summary": "WebApp used in CIBC's 2015 Run For The Cure in Toronto. Used to significantly speed up the check in process by allowing volunteers with iPads to check in participants who had previously registered online.",
-      "highlights": [
-        "Built with NodeJS and Cloudant",
-        "Sponsored by IBM"
-      ]
+      "highlights": ["Built with NodeJS and Cloudant", "Sponsored by IBM"]
+    },
+    {
+      "organization": "Engineers Without Borders",
+      "position": "Social Events Director",
+      "website": "https://www.ewb.ca/",
+      "startDate": "2013-05-30",
+      "endDate": "2014-05-30",
+      "summary": "Organized social event logistics as well as their corresponding fundraising components."
     }
   ],
   "education": [
@@ -149,10 +160,15 @@
       "gpa": ""
     }
   ],
-  "awards": [
- 
-  ],
+  "awards": [],
   "publications": [
+    {
+      "name": "Business in the Front, Crypto in the Back: How to Be a Blockchain Startup in Fintech.",
+      "publisher": "SSRN",
+      "releaseDate": "2019-09-09",
+      "website": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3423179",
+      "summary": "We present the journey by which Novera, a blockchain start-up, partnered with CompanyX, an SME investment firm actively looking for opportunities to leverage disruptive technologies. We believe that the key to this journey is expressed in Novera’s “Business in the front, crypto in the back” perspective."
+    },
     {
       "name": "University of Calgary students close in on fraud-proof electronic voting system",
       "publisher": "Calgary Herald",
@@ -163,38 +179,30 @@
   ],
   "skills": [
     {
-      "name": "Development",
+      "name": "Software Engineering",
       "level": "Master",
       "keywords": [
         "Solidity",
         "HTML",
         "CSS",
+        "AWS",
+        "Software Architecture",
         "Javascript",
         "C/C++",
         "Java",
         "NodeJS",
         "Python",
         "Blockchain",
-        "OpenGL",
+        "Cybersecurity",
+        "NoSQL",
         "GoLang",
-        "REST APIs",
+        "DevOps",
+        "RESTful Design",
+        "Distributed Systems",
         "GraphQL APIs",
+        "IPFS",
         "React/React Native",
         "Bitcoin"
-      ]
-    },
-    {
-      "name": "Music",
-      "level": "Master",
-      "keywords": [
-        "Ableton",
-        "DJing",
-        "Mixing",
-        "Mastering",
-        "Arrangement",
-        "Composition",
-        "Sound Design",
-        "Music Marketing"
       ]
     }
   ],
@@ -225,13 +233,16 @@
       ]
     },
     {
-      "name": "Cryptocurrency/Blockchains",
+      "name": "Cryptocurrency/Blockchain",
       "keywords": [
         "Bitcoin",
         "Ethereum",
-        "Trading",
         "Decentralized autonomous organizations",
-        "Investment"
+        "Investment",
+        "Cryptography",
+        "Decentralization",
+        "Trading",
+        "Electronic Voting"
       ]
     },
     {
@@ -241,11 +252,9 @@
         "Physics",
         "Computer Science",
         "Mathematics",
-        "Cryptography"
+        "Social Science"
       ]
     }
   ],
-  "references": [
-    
-  ]
+  "references": []
 }
